@@ -1,13 +1,13 @@
 # @core/library
-A class representing a collection object. Able to self-initialize
-cast data to specified types, as well as erase the composition
-from other classes.
 
 #### Why:
 Helps to create convenient data structures without crutches and bicycles.
 
 #### What:
-Look up on description, and this is one of dependenies for [@core/core](https://github.com/adeo/opp--core_core) module.
+A class representing a collection object. Able to self-initialize
+cast data to specified types, as well as erase the composition
+from other classes. This is one of dependenies for 
+[@core/core](https://github.com/adeo/opp--core_core) module.
 
 ```javascript
 import { Item } from '@core/library';
