@@ -7,7 +7,7 @@ from other classes.
 Helps to create convenient data structures without crutches and bicycles.
 
 #### What:
-Look up on description, and this is one of dependenies for @core/core module.
+Look up on description, and this is one of dependenies for [@core/core](https://github.com/adeo/opp--core_core) module.
 
 ```javascript
 import { Item } from '@core/library';
